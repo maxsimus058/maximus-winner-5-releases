@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "package_name": "com.maximus.winner5",
-  "version_code": 6,
-  "version_name": "0.3.3",
-  "apk_url": "https://github.com/maxsimus058/maximus-winner-5-releases/releases/download/v0.3.3/MAXIMUS-WINNER-5-v0.3.3-build6.apk",
-  "apk_sha256": "94e18af78b9a9cb277b364c77ebf50880868a84a0bd7249686afc9bcdbce834b",
+  "version_code": 7,
+  "version_name": "0.3.4",
+  "apk_url": "https://github.com/maxsimus058/maximus-winner-5-releases/releases/download/v0.3.4/MAXIMUS-WINNER-5-v0.3.4-build7.apk",
+  "apk_sha256": "6e586807bcb461a9e276961baab11fa293ca154b9ff96783e1f4ad6783d63500",
   "signing_cert_sha256": "422e590292e280afbbc898dc979e0337cde81077e04a282d867a69c4c9c45f0b"
 }
